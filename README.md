@@ -1,6 +1,6 @@
 # Calculadora de IMC
 
-Projeto em (Vite)React + Typescript criando uma calculadora de IMC 
+Projeto em React(Vite) + Typescript criando uma calculadora de IMC 
 
 Projeto desenvolvido durante o curso [B7web](https://b7web.com.br).
 
@@ -8,7 +8,7 @@ Projeto desenvolvido durante o curso [B7web](https://b7web.com.br).
 
 - `npm install`
 
-### Para iniciar (Vite + React)
+### Para iniciar React(Vite)
 
 - `npm rum dev`
 
@@ -22,6 +22,6 @@ Project developed during the [B7web](https://b7web.com.br) course.
 
 - `npm install`
 
-### To started (Vite + React)
+### To started React(Vite)
 
 - `npm rum dev`
