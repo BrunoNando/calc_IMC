@@ -1,6 +1,6 @@
 # Calculadora de IMC
 
-Projeto em Vite + React + Typescript criando uma calculadora de IMC 
+Projeto em (Vite)React + Typescript criando uma calculadora de IMC 
 
 Projeto desenvolvido durante o curso [B7web](https://b7web.com.br).
 
@@ -14,7 +14,7 @@ Projeto desenvolvido durante o curso [B7web](https://b7web.com.br).
 
 #Version English
 
-Project in Vite + React + Typescript creating a BMI calculator
+Project in (Vite)React + Typescript creating a BMI calculator
 
 Project developed during the [B7web](https://b7web.com.br) course.
 
